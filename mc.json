@@ -1,0 +1,74 @@
+[
+  {
+    "info": "[整合包] 小型服务器推荐，包含基础插件、箱子锁、操作回滚、领地和商店等插件。",
+    "mc": "Minecraft 1.19.2 Java 版整合包",
+    "java": "17",
+    "size": 210,
+    "remark": "支持插件，最低 6GB 内存要求",
+    "author": "alongw.cn",
+    "targetLink": "https://url.alww.top/mcsm/paper1.19.2"
+  },
+  {
+    "info": "[原版生存] 朋友联机推荐，1.19.2 版本，快速开服，享受原汁原味的极致生存与探索。",
+    "mc": "Minecraft 1.19.2 Java 原版",
+    "java": "17",
+    "size": 140,
+    "remark": "支持插件，最低 4GB 内存要求",
+    "author": "MCSManager",
+    "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.19.2.zip"
+  },
+  {
+    "info": "[Arclight] 小型服务器推荐，1.19.2 版本，可安装mod，互通基岩版，快速开服，包含ESS、锁箱子、操作回滚、领地商店等基础插件。",
+    "mc": "Minecraft 1.19.2",
+    "java": "17",
+    "size": 100,
+    "remark": "支持插件，支持mod（Forge），最低 6GB 内存要求",
+    "author": "alongw.cn",
+    "targetLink": "https://url.alww.top/mcsm/arclight1.19.2"
+  },
+  {
+    "info": "[整合包/Java&基岩版互通] 小型服务器推荐，互通基岩版，包含基础插件、箱子锁、操作回滚、领地和商店等插件。",
+    "mc": "Minecraft 1.19.2 基岩互通版",
+    "java": "17",
+    "size": 230,
+    "remark": "支持插件，最低 6GB 内存要求",
+    "author": "alongw.cn",
+    "targetLink": "https://url.alww.top/mcsm/paper-geyser1.19.2"
+  },
+  {
+    "info": "[原版生存] 朋友联机推荐，让你和你的小伙伴一起享受原汁原味的极致生存。",
+    "mc": "Minecraft 1.19.1 Java 原版",
+    "java": "17",
+    "size": 140,
+    "remark": "支持插件，最低 4GB 内存要求",
+    "author": "MCSManager",
+    "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.19.1.zip"
+  },
+  {
+    "info": "[原版生存] 适合朋友联机，“荒野更新”（The Wild）旨在为玩家带来现有生物群系的改进和优化。",
+    "mc": "Minecraft 1.19 Java 原版",
+    "java": "17",
+    "size": 140,
+    "remark": "支持插件，最低 4GB 内存要求",
+    "author": "MCSManager",
+    "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.19.zip"
+  },
+  {
+    "info": "[原版生存] 适合朋友联机推荐，继承上版本的功能并进行了一系列的优化，主流联机版本，插件与MOD较为丰富。",
+    "mc": "Minecraft 1.18.2 Java 原版",
+    "java": "17",
+    "size": 140,
+    "remark": "支持插件，最低 4GB 内存要求",
+    "author": "MCSManager",
+    "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.18.2.zip"
+  },
+  {
+    "info": "[原版生存] 适合朋友联机，快速开服，服务器搭建，回味老版本的地穴探索。",
+    "mc": "Minecraft 17.1 Java 原版",
+    "java": "17",
+    "size": 160,
+    "remark": "支持插件，最低 4GB 内存要求",
+    "author": "MCSManager",
+    "targetLink": "http://oss.duzuii.com/d/MCSManager/Minecraft-Server-Software/paper-1.17.1.zip"
+  }
+]
